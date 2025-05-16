@@ -50,7 +50,6 @@ import userIcon from '../assets/icons/Group 15.png'
 import logobg from "../assets/icons/Group 54.svg"
 import whiteLogo from '../assets/icons/Frame 1.png'
 import Twitter from '../assets/pngwing.com.png'
-import group59 from '../assets/icons/Group 59.png'
 import frame11 from '../assets/icons/Frame 11.svg'
 import group60 from '../assets/icons/Group 60.png'
 import group66 from '../assets/icons/Group 66.svg'
@@ -134,7 +133,7 @@ const files = {
     RestaurantIcon:RestaurantIcon, BakeryIcon:BakeryIcon, CoffeeSnacks:CoffeeSnacks,
     Catering:Catering, Group30:Group30, Group4:Group4, Image4:Image4, Image5:Image5,
     Group36:Group36, Image6:Image6, Group56:Group56, Group58:Group58, Twitter:Twitter,
-    group59:group59, frame11:frame11, group60:group60, group66:group66, Group39:Group39,
+    frame11:frame11, group60:group60, group66:group66, Group39:Group39,
     Groups58:Groups58, Group38:Group38, Ellipse06:Ellipse06,Biker:Biker,Group70:Group70,
     Group75:Group75,chef3d:chef3d, Group24:Group24, StarBadge:StarBadge, Target:Target,
     Group74:Group74, Group71:Group71,Group72:Group72,Group73:Group73,Frame18:Frame18, 
